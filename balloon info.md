@@ -1,6 +1,13 @@
 use these links to help determine the payload limitations
 - https://www.highaltitudescience.com/pages/balloon-performance-calculator
-- http://tools.highaltitudescience.com/#
+- http://tools.highaltitudescience.com/
+- 1 cu.ft. of helium will lift 28 grams
+14.9
+
+Positive lift is the extra lift your weather balloon needs to rise upward in addition to the lift needed to carry the weight of your payload and the weight of the balloon itself. As an example, let's say you want to launch a payload that weighs 1200 grams (including the weight of the parachute, rigging, etc.). Let's also assume you are using our 1200 g weather balloon (which also weighs 1200 grams). You calculate how much helium you need to launch your payload with the knowledge that 1 cu.ft. of helium will lift 28 grams. You divide the weight of your balloon and payload (2400 g) by 28 g/cu.ft. to get the total number of cubic feet of helium required for your launch (2400 g ÷ 28 g/cu.ft = 86 cu.ft.).
+
+You inflate your balloon with 86 cu.ft. of helium and release your payload. To your surprise it doesn't climb. It just floats right in front of you, neither climbing nor descending. This is because your balloon has only enough helium to lift its own weight and the weight of the payload. It's at perfect equilibrium. You need a force that will make the balloon and payload rise upward. The easiest solution is to add more helium to the balloon. This additional helium will provide the extra lift you need to make your balloon climb. The lift force created by this additional helium is called positive lift. The more helium you add to your balloon in addition to the helium used to lift the weight of the payload and the balloon itself, the more positive lift you will have. The more positive lift you have, the faster your payload will climb.
+
 
 ascent rate (m/s)	distance (km)	distance (m)	time (s)	time (min)	time (hrs)
 0.5	5.0 5000.0	10000.0	166.7	2.8

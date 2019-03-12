@@ -1,3 +1,7 @@
+use these links to help determine the payload limitations
+- https://www.highaltitudescience.com/pages/balloon-performance-calculator
+- http://tools.highaltitudescience.com/#
+
 ascent rate (m/s)	distance (km)	distance (m)	time (s)	time (min)	time (hrs)
 0.5	5.0 5000.0	10000.0	166.7	2.8
 1.0	5.0	5000.0	5000.0	83.3	1.4

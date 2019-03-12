@@ -4,7 +4,9 @@
 - balloon is launched and a glider is autonomously released at some altitude that autonomously returns to the initial launch location while also broadcasting its telemetry
 
 ## system requirements
-- continues to function at >80k-ft
+- continues to function at >30km
+- shall lift to 20km (lift to 30km is desired)
+- glider autonomously shall return to launch
 - continuously broadcasts:
   + date
   + time
